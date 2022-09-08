@@ -1,6 +1,6 @@
 {
   "name": "web_server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web server using node js",
   "main": "app.js",
   "scripts": {
